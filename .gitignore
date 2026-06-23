@@ -1,0 +1,3 @@
+# Session logs are first-person personal content — never commit them.
+sessions/
+*.local.md
