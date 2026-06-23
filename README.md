@@ -121,3 +121,9 @@ Then make it yours — edit `roster.md`, and start filling `self_context.md` aft
 ## Privacy
 
 Soundings is **local-only**. The consultation lives in your conversation; nothing it produces is aggregated or sent anywhere. Session logging is **off by default** — logs are written only when you explicitly ask, to a local location you approve. Because sessions and `self_context.md` contain first-person personal content, keep them in a gitignored location if you version-control your setup.
+
+---
+
+## License
+
+Soundings is licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)** — free to use, share, and adapt for **non-commercial** purposes, **with attribution**. For **commercial** use you need a separate license from the author — open an issue or reach out via [@chenyux3](https://github.com/chenyux3). See [`LICENSE`](LICENSE).
